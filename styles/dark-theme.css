@@ -11,7 +11,7 @@ body {
 h1 {
     font-family: "Unbounded", sans-serif;
     font-size: 64px;
-    font-weight: bold;
+    font-weight: 700;
 }
 
 p {
@@ -25,5 +25,16 @@ h1 span {
 }
 
 a {
+    display: block;
+    font-family: "Poppins", sans-serif;
     color: #FFFFFF;
+    font-size: 24px;
+    text-decoration: none;
+    background-color: #9747FF;
+    width: 340px;
+    height: 66px;
+    text-align: center;
+    line-height: 66px;
+    border-radius: 36px;
+
 }
